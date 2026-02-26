@@ -9,7 +9,8 @@ One of the strengths of my approach was the thoroughness of my vulnerability ide
 
 **Challenging Parts of the Assessment**
 The most challenging part of the vulnerability assessment was configuring and running OWASP Dependency‑Check due to Java version conflicts and changes in how the tool is packaged. Troubleshooting these issues required patience and careful problem solving. The manual review portion was helpful because it forced me to examine the code closely and understand how each component contributed to the application’s security.
-Increasing Layers of Security & Future Approaches
+
+**Increasing Layers of Security & Future Approaches**
 I increased the application’s security by implementing HTTPS with a PKCS12 keystore, adding SHA‑256 checksum verification, and reviewing the code for insecure patterns. In the future, I would continue using tools like OWASP Dependency‑Check, static analysis tools, and dynamic testing methods to assess vulnerabilities.
 
 **Ensuring Functionality and Security After Refactoring**
