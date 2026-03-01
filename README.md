@@ -3,7 +3,7 @@ Collection of work associated with assignments completed in CS 305 Software and 
 
 **Client Summary**
 
-      Artemis Financial is a financial services company that specializes in secure client transactions and data protection. Their primary concern was that their existing software lacked modern security controls, in the areas of encrypted communication and data integrity. They requested an assessment and refactoring of their application to ensure that sensitive financial information could be transmitted securely. I identified vulnerabilities, implemented secure communication using HTTPS, added checksum verification for data integrity, and validated that the application complied with industry standard security practices.
+Artemis Financial is a financial services company that specializes in secure client transactions and data protection. Their primary concern was that their existing software lacked modern security controls, in the areas of encrypted communication and data integrity. They requested an assessment and refactoring of their application to ensure that sensitive financial information could be transmitted securely. I identified vulnerabilities, implemented secure communication using HTTPS, added checksum verification for data integrity, and validated that the application complied with industry standard security practices.
 
 
 **Why Secure Coding Matters**
